@@ -14,6 +14,6 @@ All images can be downloaded by running the `Setup.ipynb` notebook.
 
 ### SOFIA
 
-To request access to download and use SOFIA in your research, please contact the corresponding author, Jesús García-Salmerón (jesus.garcias@um.es).
+To request access to download and use SOFIA in your research, please contact the corresponding author.
 
 When contacting the author, please briefly introduce yourself, your research group, and the intended use of the SOFIA dataset.
