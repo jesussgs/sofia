@@ -1,4 +1,4 @@
-# SOFIA: A Human Breast Carcinoma Dataset for Automated Mitosis Detection and a Comprehensive Analysis of Object Detection Models
+# SOFIA: A clinically sourced breast carcinoma dataset for cross-dataset mitosis detection in histopathological images
 Official repository for the SOFIA dataset and the inherent comparative analysis of object dectection models. Code will be released soon.
 
 
